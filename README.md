@@ -3,7 +3,7 @@ UCF Project 1
 
 This is an exploratory data analysis of Real Estate data.
 
-The data set used for this analysis can be found at the link below;
+The data set used for this analysis can be found at the link below
 https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 
 Each team member aims to answer one question about real estate based on the data available.
