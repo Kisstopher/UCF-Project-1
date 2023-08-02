@@ -8,11 +8,11 @@ https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 
 Each team member aims to answer one question about real estate based on the data available.
 
-Project Team Members
-  Steve Marsicek
-  Richard Torres
-  Brittany Castro
-  Chris Gansen
+Project Team Members:
+  Steve Marsicek, 
+  Richard Torres, 
+  Brittany Castro, 
+  Chris Gansen, 
   Derek Pinto
 
   Presentation can be found at the link below
